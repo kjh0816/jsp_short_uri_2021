@@ -1,8 +1,8 @@
-package com.kjh.exam.dto;
+package com.kjh.exam.http.servlet.dto;
 
 import java.util.Map;
 
-import com.kjh.exam.util.Ut;
+import com.kjh.exam.http.servlet.util.Ut;
 
 import lombok.Getter;
 import lombok.ToString;

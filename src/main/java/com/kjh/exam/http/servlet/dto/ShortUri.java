@@ -1,4 +1,4 @@
-package com.kjh.exam.dto;
+package com.kjh.exam.http.servlet.dto;
 
 import lombok.Data;
 

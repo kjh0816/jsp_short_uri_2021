@@ -1,4 +1,4 @@
-package com.kjh.exam;
+package com.kjh.exam.http.servlet;
 
 import java.io.IOException;
 import javax.servlet.ServletException;

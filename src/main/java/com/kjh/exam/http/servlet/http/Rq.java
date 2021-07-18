@@ -1,4 +1,4 @@
-package com.kjh.exam.http;
+package com.kjh.exam.http.servlet.http;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

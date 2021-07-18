@@ -1,4 +1,4 @@
-package com.kjh.exam.util;
+package com.kjh.exam.http.servlet.util;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
